@@ -22211,7 +22211,7 @@ msgstr "自动配置让管理员找到可能需要翻译的术语。"
 #. module: base
 #: model:ir.ui.menu,name:base.menu_automation
 msgid "Automation"
-msgstr "Automation"
+msgstr "自动化"
 
 #. module: website
 #. openerp-web
@@ -42028,7 +42028,7 @@ msgstr "External Identifier"
 #: view:ir.model.data:base.view_model_data_search
 #: model:ir.ui.menu,name:base.ir_model_data_menu
 msgid "External Identifiers"
-msgstr "External Identifiers"
+msgstr "外部标识符"
 
 #. module: base
 #: help:ir.model.data,name:0
@@ -52235,7 +52235,7 @@ msgstr "Job Detail"
 #. module: hr_recruitment
 #: field:hr.job,address_id:0
 msgid "Job Location"
-msgstr "Job Location"
+msgstr "工作地点"
 
 #. module: hr
 #: field:hr.job,name:0
@@ -57156,7 +57156,7 @@ msgstr "建立报价"
 #: code:addons/stock/stock.py:3118
 #, python-format
 msgid "Make To Order"
-msgstr "Make To Order"
+msgstr "生成订单"
 
 #. module: stock
 #: selection:stock.warehouse,delivery_steps:0
@@ -57631,7 +57631,7 @@ msgstr "手动周期"
 #: code:addons/stock/stock.py:2575
 #, python-format
 msgid "Manual Selection of Products"
-msgstr "Manual Selection of Products"
+msgstr "手动选择的产品"
 
 #. module: base
 #: model:ir.module.module,description:base.module_stock_quant_manual_assign
@@ -67528,7 +67528,7 @@ msgstr "Payment Acquirer: Transfer Implementation"
 #: model:ir.ui.menu,name:payment.payment_acquirer_menu
 #: view:payment.acquirer:payment.acquirer_list
 msgid "Payment Acquirers"
-msgstr "Payment Acquirers"
+msgstr "付款托收"
 
 #. modules: account, account_payment, point_of_sale
 #: view:account.invoice:account.invoice_supplier_form
@@ -72663,7 +72663,7 @@ msgstr "提供退回的产品的数量"
 #: view:payment.acquirer:payment.acquirer_search
 #: field:payment.acquirer,provider:0
 msgid "Provider"
-msgstr "Provider"
+msgstr "提供者"
 
 #. module: marketing
 #: help:marketing.config.settings,module_marketing_campaign:0
@@ -77633,7 +77633,7 @@ msgstr "查看您的费用产品"
 #: field:report.project.task.user,reviewer_id:0
 #: field:project.issue.report,reviewer_id:0
 msgid "Reviewer"
-msgstr "Reviewer"
+msgstr "复审人员"
 
 #. module: gamification
 #: view:gamification.challenge:gamification.challenge_form_view
@@ -97783,17 +97783,17 @@ msgstr "折扣可见"
 #. module: payment
 #: field:payment.acquirer,website_published:0
 msgid "Visible in Portal / Website"
-msgstr "Visible in Portal / Website"
+msgstr "在网站或门户可见"
 
 #. module: website_event
 #: field:event.event,website_published:0
 msgid "Visible in Website"
-msgstr "Visible in Website"
+msgstr "在网页可见"
 
 #. module: website_mail
 #: help:mail.message,website_published:0
 msgid "Visible on the website as a comment"
-msgstr "Visible on the website as a comment"
+msgstr "在网站可见为评论"
 
 #. modules: im_livechat, im_chat
 #. openerp-web
